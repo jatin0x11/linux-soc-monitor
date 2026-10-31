@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Generated reports (evidence should be attached deliberately, not committed)
+reports/*
+!reports/.gitkeep
+
+# Local planning notes (not part of the published project)
+/Linux_SOC_Monitor_Spec.md
+
+# Editor / OS noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

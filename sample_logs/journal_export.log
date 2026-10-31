@@ -1,0 +1,11 @@
+2024-02-02T11:00:01+0000 db01 sshd[5001]: Failed password for root from 203.0.113.99 port 60001 ssh2
+2024-02-02T11:00:12+0000 db01 sshd[5002]: Failed password for root from 203.0.113.99 port 60002 ssh2
+2024-02-02T11:00:23+0000 db01 sshd[5003]: Failed password for root from 203.0.113.99 port 60003 ssh2
+2024-02-02T11:00:34+0000 db01 sshd[5004]: Failed password for root from 203.0.113.99 port 60004 ssh2
+2024-02-02T11:00:45+0000 db01 sshd[5005]: Failed password for root from 203.0.113.99 port 60005 ssh2
+2024-02-02T11:00:56+0000 db01 sshd[5006]: Failed password for root from 203.0.113.99 port 60006 ssh2
+2024-02-02T11:01:20+0000 db01 sshd[5007]: Accepted password for root from 203.0.113.99 port 60007 ssh2
+2024-02-02T11:05:00+0000 db01 sshd[5008]: Accepted publickey for backup from 192.0.2.20 port 60008 ssh2: ED25519 SHA256:CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+2024-02-02T11:06:00+0000 db01 sshd[5009]: Invalid user postgres from 198.51.100.23 port 60009
+2024-02-02T11:06:01+0000 db01 sshd[5009]: Failed password for invalid user postgres from 198.51.100.23 port 60009 ssh2
+2024-02-02T11:10:00.123456+00:00 db01 sshd[5010]: error: PAM: Authentication failure for illegal user admin from 198.51.100.23

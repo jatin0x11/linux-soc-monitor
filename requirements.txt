@@ -1,0 +1,3 @@
+# Runtime: Python 3.9+ standard library only.
+# Testing dependency:
+pytest>=7.4,<9
